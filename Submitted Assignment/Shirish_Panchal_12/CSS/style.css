@@ -12,9 +12,8 @@ position: absolute;
   height: auto;
   border: #05050508 solid 0.352778mm;
   position: absolute;
-  left: 25mm;
-  top: 80mm;
-
+  left: 13mm;
+  top: 67mm;
 }
 
 .menu-list-group:nth-child(even) {
@@ -23,7 +22,7 @@ position: absolute;
   border: #09040400 solid 0.352778mm;
   position: absolute;
   right: 24mm;
-  bottom: 120mm;
+  bottom: 198mm;
 
 }
 .menu-list-group1:nth-child(odd) {
@@ -31,8 +30,8 @@ position: absolute;
   height: auto;
   border: #05050508 solid 0.352778mm;
   position: absolute;
-  left: -125mm;
-  top: 0mm;
+  left: 12mm;
+  top: 144mm;
 
 }
 
@@ -41,9 +40,8 @@ position: absolute;
   height: auto;
   border: #09040400 solid 0.352778mm;
   position: absolute;
-  right: 0mm;
-  bottom: 75mm;
-
+  right: 24mm;
+  bottom: 112mm;
 }
 
 
@@ -80,7 +78,7 @@ body .menu-wrapper {
   font-size: 60pt;
   font-style: normal;
   position: absolute;
-  left: 148mm;
+  left: 110mm;
   top: 54mm;
 }
 
@@ -88,9 +86,9 @@ body .menu-wrapper {
 {
   width: 352.778mm;
   position: absolute;
-  top: 238.478mm;
-  left: 27.5167;
-  color:#FFEB3B;
+  top: 226.478mm;
+  left: 25.5167mm;
+  color: #FFEB3B;
 }
 
 .restaurant-phone
